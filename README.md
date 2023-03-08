@@ -1,3 +1,6 @@
+# 動作動画
+<video src="https://user-images.githubusercontent.com/69063870/223644704-e1e65d1d-7bc8-4355-b2e3-4cffe5b085a8.MOV" width="320"></video>
+
 # P2HACKS2022 アピールシート 
 
 プロダクト名  
